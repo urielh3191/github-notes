@@ -1,1 +1,3 @@
-# github-notes
+# GitHub Notes
+## Git
+* Git is 
